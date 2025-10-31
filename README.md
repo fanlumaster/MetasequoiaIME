@@ -1,0 +1,26 @@
+# Meta IME(水杉输入法)
+
+Meta stands for Metasequoia(水杉).
+
+水杉输入法是一个 Windows 输入法，是一个纯 TSF 输入法。
+
+## 开源代码
+
+- TSF 端: <https://github.com/fanlumaster/MetaIMETsf>
+- Server 端: <https://github.com/fanlumaster/MetaIMEServer>
+
+## 特性
+
+## 路线图
+
+## 手动构建
+
+## 贡献
+
+由于本输入法可能会向用户收取少量费用以维持开源和长期开发，所以，暂时尽可能不接受代码贡献。
+
+开源更多是因为出于对于隐私的担忧，希望打消用户对于隐私的顾虑。
+
+## 感谢
+
+## 许可协议
