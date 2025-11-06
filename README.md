@@ -1,6 +1,4 @@
-# Meta IME(水杉输入法)
-
-Meta stands for Metasequoia(水杉).
+# Metasequoia IME(水杉输入法)
 
 水杉输入法是一个 Windows 输入法，是一个纯 TSF 输入法。
 
@@ -8,6 +6,14 @@ Meta stands for Metasequoia(水杉).
 
 - TSF 端: <https://github.com/fanlumaster/MetaIMETsf>
 - Server 端: <https://github.com/fanlumaster/MetaIMEServer>
+
+## 截图
+
+![](https://i.imgur.com/THBuxl3.png)
+
+![](https://i.imgur.com/rOCyAic.png)
+
+![](https://i.imgur.com/ayArNvd.png)
 
 ## 特性
 
