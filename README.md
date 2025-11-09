@@ -15,6 +15,10 @@
 
 ![](https://i.imgur.com/ayArNvd.png)
 
+双拼初学者可以使用以下这个带有键位提示的皮肤：
+
+![](https://i.imgur.com/Sq1OKRM.png)
+
 ## 特性
 
 ## 路线图
